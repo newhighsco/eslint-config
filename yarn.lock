@@ -42,10 +42,10 @@
     update-notifier "^2.2.0"
     yargs "^8.0.2"
 
-"@newhighsco/prettier-config@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-1.0.1.tgz#216739951541bdcbb8471db0e0b0952b3300771f"
-  integrity sha512-DS8gAjvQCQQRIbPglgLBV0BFe1C18Fya7WiFuWRH4e9gpTRxLDJy5XUHrSB25leS6NJsb+tinHBLJL6E4Krm1A==
+"@newhighsco/prettier-config@1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@newhighsco/prettier-config/-/prettier-config-1.0.2.tgz#0ae71a3cd1ebe599f4873d8869b51707aca3ef91"
+  integrity sha512-kKQECYgyAnozmpRkQdFdv4bnTUHwo9NEgTuWTewqKcefowij0udwJLAbVkxbkLMO7FNwNk3RyAnhxpuwf+2YJA==
 
 "@newhighsco/release-config@1.0.10":
   version "1.0.10"
